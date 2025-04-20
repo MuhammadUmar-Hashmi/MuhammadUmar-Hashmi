@@ -17,8 +17,8 @@
 
 ### 🚀 Skills
 
-<div align="center">
----
+
+
 
 #### 👨‍💻 Programming Languages
 - 💻 C / C++ (90%)
